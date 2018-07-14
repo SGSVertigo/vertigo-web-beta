@@ -45,7 +45,7 @@ var ThreeDRoutingModule = (function () {
 /***/ "../../../../../src/app/threed/threed.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"animated fadeIn\">\n  <div class=\"row\">\n    <div class=\"col-sm-12 col-lg-12\">\n      <div class=\"card card-inverse card-primary\">\n          <!--<div style=\"z-index: 10000;\" #statusWindow>Test</div>-->\n          <div #renderCanvas>\n            </div>\n            Red is North, Blue is East and Green is Up\n      </div>\n    </div>\n  </div>\n</div>\n"
+module.exports = "<div class=\"animated fadeIn\">\n  <div class=\"row\">\n    <div class=\"col-sm-12 col-lg-12\">\n      <div class=\"card card-inverse card-primary\">\n          <!--<div style=\"z-index: 10000;\" #statusWindow>Test</div>-->\n          <div #renderCanvas>\n            </div>\n            Red is North, Blue is East and Green is Up. Arrow shows direction of acceleration.\n      </div>\n    </div>\n  </div>\n</div>\n"
 
 /***/ }),
 
