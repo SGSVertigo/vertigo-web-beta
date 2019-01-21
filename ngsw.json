@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.0e3b904ac08b7e099fc6.js",
+        "/4.b33b727df13448f0b11c.js",
         "/favicon.ico",
         "/index.html",
         "/main.e3c4172752c8de20b6c6.js",
         "/polyfills.e0c0d6224dce2bbdb1d8.js",
-        "/runtime.1a8b68ce759c563e8435.js",
+        "/runtime.ee27649a7c737c41199d.js",
         "/scripts.d0e48bb6bd68da60f5db.js",
         "/styles.3301b1a3c32c9c635b8c.css"
       ],
@@ -52,7 +52,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.0e3b904ac08b7e099fc6.js": "f69d2d6ad7a3cb5577b8d8a0ba3b3a1db0f98b8c",
+    "/4.b33b727df13448f0b11c.js": "7d3f7772864881e959255673518e98f48d8babe1",
     "/assets/data/news.json": "8a5fbb9ed14b608bd8f82ec87c6a8a5132e1cbc9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -77,10 +77,10 @@
     "/assets/leaflet-countries/countries.geo.json": "1540071a0c57b490fc0741509c36f23ed6581820",
     "/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/favicon.ico": "af8dff7ec44f26668855707a8666c37f8f33b231",
-    "/index.html": "699fbe45ba7f1522606e57e09fdaefe2b0b28e23",
+    "/index.html": "99cead891e20be759e9033f0e5c34039acbf6a42",
     "/main.e3c4172752c8de20b6c6.js": "4764866c396748362132db8fb5e6478fd74fc590",
     "/polyfills.e0c0d6224dce2bbdb1d8.js": "a2e42ebabb1787d737ddc0fb79ef31ee4491a740",
-    "/runtime.1a8b68ce759c563e8435.js": "06f9dcf38bff4df3e5bcaa1cb86a4dd21f029c21",
+    "/runtime.ee27649a7c737c41199d.js": "b8e9e9f3ddd4a287e8aa6efed728e8bb726ee633",
     "/scripts.d0e48bb6bd68da60f5db.js": "8bb7f598f0f8ca793288bf58e4a3c8a655106bbb",
     "/styles.3301b1a3c32c9c635b8c.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
   },
