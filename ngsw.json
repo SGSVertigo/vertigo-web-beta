@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.a768ade16408a22ac5bb.js",
+        "/4.5000711b7b35c4f98903.js",
         "/favicon.ico",
         "/index.html",
-        "/main.c1f3a075ce8f2e07ae58.js",
+        "/main.9ec4b92fd3b48738fbcb.js",
         "/polyfills.e0c0d6224dce2bbdb1d8.js",
-        "/runtime.35d48c13be0058183963.js",
+        "/runtime.aa0f37dc6589ca930c76.js",
         "/scripts.d0e48bb6bd68da60f5db.js",
         "/styles.3301b1a3c32c9c635b8c.css"
       ],
@@ -52,7 +52,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.a768ade16408a22ac5bb.js": "dd0393dc99c53c70bd10b16ec2181f723f7e79a8",
+    "/4.5000711b7b35c4f98903.js": "e7b490c5014b37176f374a5f571df76450a8669d",
     "/assets/data/news.json": "8a5fbb9ed14b608bd8f82ec87c6a8a5132e1cbc9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -77,10 +77,10 @@
     "/assets/leaflet-countries/countries.geo.json": "1540071a0c57b490fc0741509c36f23ed6581820",
     "/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/favicon.ico": "af8dff7ec44f26668855707a8666c37f8f33b231",
-    "/index.html": "736afc122a4fe73fb2652da85fce4724e838c226",
-    "/main.c1f3a075ce8f2e07ae58.js": "5159b342382478cd6d69a66443af8afcbb9a7e75",
+    "/index.html": "ff11313cc5d48f051940b8965e33d751a5b0df58",
+    "/main.9ec4b92fd3b48738fbcb.js": "23e401dca6b8c70a09788773ee9878356ef23b7d",
     "/polyfills.e0c0d6224dce2bbdb1d8.js": "a2e42ebabb1787d737ddc0fb79ef31ee4491a740",
-    "/runtime.35d48c13be0058183963.js": "3680039de2080922d6edb197c838a2d299f3a968",
+    "/runtime.aa0f37dc6589ca930c76.js": "886dd092c30a94213d406b2cf6ca46c34e9dfcdb",
     "/scripts.d0e48bb6bd68da60f5db.js": "8bb7f598f0f8ca793288bf58e4a3c8a655106bbb",
     "/styles.3301b1a3c32c9c635b8c.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
   },
