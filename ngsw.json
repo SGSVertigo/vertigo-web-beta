@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.5000711b7b35c4f98903.js",
+        "/4.395d064360b99cc16ef6.js",
         "/favicon.ico",
         "/index.html",
         "/main.d497f07e1e1c6592dcb4.js",
         "/polyfills.e0c0d6224dce2bbdb1d8.js",
-        "/runtime.aa0f37dc6589ca930c76.js",
+        "/runtime.e00d0a597b057c22008a.js",
         "/scripts.d0e48bb6bd68da60f5db.js",
         "/styles.3301b1a3c32c9c635b8c.css"
       ],
@@ -45,6 +45,8 @@
         "/assets/img/markers/marker-icon.png",
         "/assets/img/markers/marker-shadow.png",
         "/assets/leaflet-countries/countries.geo.json",
+        "/assets/map/map-marker.png",
+        "/assets/map/marker-shadow.png",
         "/assets/map/world.json"
       ],
       "patterns": []
@@ -52,7 +54,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.5000711b7b35c4f98903.js": "e7b490c5014b37176f374a5f571df76450a8669d",
+    "/4.395d064360b99cc16ef6.js": "32cc06692778d412776131018333049a0966ac40",
     "/assets/data/news.json": "8a5fbb9ed14b608bd8f82ec87c6a8a5132e1cbc9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -75,12 +77,14 @@
     "/assets/img/markers/marker-icon.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/assets/img/markers/marker-shadow.png": "7b6a8df63930381e96604e705168d0527d6b82bc",
     "/assets/leaflet-countries/countries.geo.json": "1540071a0c57b490fc0741509c36f23ed6581820",
+    "/assets/map/map-marker.png": "edc7a46e9f5da4f350127ea6184a4d8641ccba06",
+    "/assets/map/marker-shadow.png": "c086bf4bc0f2d851f82f2b1cbdb1ee42150bc528",
     "/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/favicon.ico": "af8dff7ec44f26668855707a8666c37f8f33b231",
-    "/index.html": "3ac5d3022246edd4976d393324d646ca526efd73",
+    "/index.html": "c779b04b7a3eab2a07d4d297a6476cd1639b2dfc",
     "/main.d497f07e1e1c6592dcb4.js": "23e401dca6b8c70a09788773ee9878356ef23b7d",
     "/polyfills.e0c0d6224dce2bbdb1d8.js": "a2e42ebabb1787d737ddc0fb79ef31ee4491a740",
-    "/runtime.aa0f37dc6589ca930c76.js": "886dd092c30a94213d406b2cf6ca46c34e9dfcdb",
+    "/runtime.e00d0a597b057c22008a.js": "8d8c2d77f48862f19672b479190979ccc6f3f1b2",
     "/scripts.d0e48bb6bd68da60f5db.js": "8bb7f598f0f8ca793288bf58e4a3c8a655106bbb",
     "/styles.3301b1a3c32c9c635b8c.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
   },
