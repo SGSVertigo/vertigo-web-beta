@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.395d064360b99cc16ef6.js",
+        "/4.8b3d4c06b81af01ce12c.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d497f07e1e1c6592dcb4.js",
+        "/main.8a619ff7b8b3ea3c0364.js",
         "/polyfills.e0c0d6224dce2bbdb1d8.js",
-        "/runtime.e00d0a597b057c22008a.js",
+        "/runtime.1f33c0256737bf9f648c.js",
         "/scripts.d0e48bb6bd68da60f5db.js",
         "/styles.3301b1a3c32c9c635b8c.css"
       ],
@@ -54,7 +54,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.395d064360b99cc16ef6.js": "32cc06692778d412776131018333049a0966ac40",
+    "/4.8b3d4c06b81af01ce12c.js": "4a106ba5bcb47e89ffe97b0019db50b9a94dc068",
     "/assets/data/news.json": "8a5fbb9ed14b608bd8f82ec87c6a8a5132e1cbc9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -81,10 +81,10 @@
     "/assets/map/marker-shadow.png": "c086bf4bc0f2d851f82f2b1cbdb1ee42150bc528",
     "/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/favicon.ico": "af8dff7ec44f26668855707a8666c37f8f33b231",
-    "/index.html": "c779b04b7a3eab2a07d4d297a6476cd1639b2dfc",
-    "/main.d497f07e1e1c6592dcb4.js": "23e401dca6b8c70a09788773ee9878356ef23b7d",
+    "/index.html": "5463e556abe03e24db211c29d7762a41d9591bec",
+    "/main.8a619ff7b8b3ea3c0364.js": "95c7e5e3560f1fea68ab6121d3c63b766a98a710",
     "/polyfills.e0c0d6224dce2bbdb1d8.js": "a2e42ebabb1787d737ddc0fb79ef31ee4491a740",
-    "/runtime.e00d0a597b057c22008a.js": "8d8c2d77f48862f19672b479190979ccc6f3f1b2",
+    "/runtime.1f33c0256737bf9f648c.js": "291b8c5cba7ce4502d2b74d4ec23aef4e225682e",
     "/scripts.d0e48bb6bd68da60f5db.js": "8bb7f598f0f8ca793288bf58e4a3c8a655106bbb",
     "/styles.3301b1a3c32c9c635b8c.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
   },
