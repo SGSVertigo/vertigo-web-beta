@@ -7,14 +7,14 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.d8ce8e00d91acda7e18c.js",
+        "/4.f9f884a21b9112586f73.js",
         "/favicon.ico",
         "/index.html",
         "/main.8a619ff7b8b3ea3c0364.js",
         "/polyfills.e0c0d6224dce2bbdb1d8.js",
-        "/runtime.b7522392a1a6b8399c2a.js",
+        "/runtime.5b0a7c29a63b1b6fbf5c.js",
         "/scripts.d0e48bb6bd68da60f5db.js",
-        "/styles.3301b1a3c32c9c635b8c.css"
+        "/styles.f9352a6e5778e052868b.css"
       ],
       "patterns": []
     },
@@ -48,7 +48,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.d8ce8e00d91acda7e18c.js": "ed6da53cec465229fbe761aebc5c771f0ea22301",
+    "/4.f9f884a21b9112586f73.js": "1d8ce2d1d1bb5435c5e22c931f3a8cecb08e99dd",
     "/assets/data/news.json": "8a5fbb9ed14b608bd8f82ec87c6a8a5132e1cbc9",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
@@ -64,17 +64,17 @@
     "/assets/img/markers/marker-icon-2x.png": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
     "/assets/img/markers/marker-icon.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
     "/assets/img/markers/marker-shadow.png": "7b6a8df63930381e96604e705168d0527d6b82bc",
-    "/assets/leaflet-countries/countries.geo.json": "1540071a0c57b490fc0741509c36f23ed6581820",
+    "/assets/leaflet-countries/countries.geo.json": "68361d5a23b3364282c63f0010f40660e21c6460",
     "/assets/map/map-marker.png": "edc7a46e9f5da4f350127ea6184a4d8641ccba06",
     "/assets/map/marker-shadow.png": "c086bf4bc0f2d851f82f2b1cbdb1ee42150bc528",
     "/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/favicon.ico": "af8dff7ec44f26668855707a8666c37f8f33b231",
-    "/index.html": "2473e71a3dfc6cd5109c57680484255651584048",
+    "/index.html": "a2daf997a18e146a2dae0e08f44c2c04ce9a37ed",
     "/main.8a619ff7b8b3ea3c0364.js": "95c7e5e3560f1fea68ab6121d3c63b766a98a710",
     "/polyfills.e0c0d6224dce2bbdb1d8.js": "a2e42ebabb1787d737ddc0fb79ef31ee4491a740",
-    "/runtime.b7522392a1a6b8399c2a.js": "3177f91824a0dc6ae7eeccb5f07a93a139d72a79",
+    "/runtime.5b0a7c29a63b1b6fbf5c.js": "8cb94b4a0430ae4c2a54f479bd1a78defb2b6256",
     "/scripts.d0e48bb6bd68da60f5db.js": "8bb7f598f0f8ca793288bf58e4a3c8a655106bbb",
-    "/styles.3301b1a3c32c9c635b8c.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
+    "/styles.f9352a6e5778e052868b.css": "0e343a44ee0aad35d28a380e4d832c2a73489a58"
   },
   "navigationUrls": [
     {
