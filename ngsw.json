@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1571692074058,
+  "timestamp": 1571861425410,
   "index": "/vertigo-web-beta/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/vertigo-web-beta/0.b02ce06b37a6824c929d.worker.js",
         "/vertigo-web-beta/favicon.ico",
         "/vertigo-web-beta/index.html",
-        "/vertigo-web-beta/main.6a6687e3f38ae1c63d74.js",
+        "/vertigo-web-beta/main.ab93020448cf37e8ba75.js",
         "/vertigo-web-beta/main.de26a9f729527e72c660.css",
         "/vertigo-web-beta/manifest.webmanifest",
         "/vertigo-web-beta/polyfills-es5.d678a30baca21fbffe1c.js",
@@ -72,10 +72,10 @@
     "/vertigo-web-beta/assets/map/marker-shadow.png": "c086bf4bc0f2d851f82f2b1cbdb1ee42150bc528",
     "/vertigo-web-beta/assets/map/world.json": "d56cd6284488b47258193fd52b42e7cf04c7dfe6",
     "/vertigo-web-beta/favicon.ico": "29993600c85ca86acbbcf755b4d04c5c54c7f25b",
-    "/vertigo-web-beta/index.html": "f05ccd7646ce670ed26244a3570097f8bf1d71d8",
+    "/vertigo-web-beta/index.html": "69afd2bc925302c5511ce410a78b0654134229ff",
     "/vertigo-web-beta/layers-2x.4f0283c6ce28e888000e.png": "152a162333e46d24f9d89f566312fc0c64011dee",
     "/vertigo-web-beta/layers.a6137456ed160d760698.png": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
-    "/vertigo-web-beta/main.6a6687e3f38ae1c63d74.js": "3f958715386d6b09a5239a1ba4f2f29a25d4ed70",
+    "/vertigo-web-beta/main.ab93020448cf37e8ba75.js": "1eb2ebd5f9b1bad899bd3edf6c0d625c49977b9c",
     "/vertigo-web-beta/main.de26a9f729527e72c660.css": "34a045ccddf2cf38ec01cb0dbd982e52f87d4d64",
     "/vertigo-web-beta/manifest.webmanifest": "cc5e0d3d4b69fd7b9c336b710289640ad8344656",
     "/vertigo-web-beta/marker-icon.2273e3d8ad9264b7daa5.png": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
